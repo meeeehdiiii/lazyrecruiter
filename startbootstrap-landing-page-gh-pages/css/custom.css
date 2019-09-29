@@ -1,0 +1,34 @@
+.icon-check:before {
+    content: "\e080";
+    color: #dc3545;
+}
+
+
+.icon-layers:before {
+    content: "\e034";
+    color: #dc3545;
+}
+.icon-screen-desktop:before {
+    content: "\e011";
+    color: #dc3545;
+}
+
+.btn-primary {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.fa-facebook:before {
+    content: "\f09a";
+    color: #dc3545;
+}
+.fa-twitter-square:before{
+    color: #dc3545;
+}
+.fa-instagram:before{
+    color: #dc3545;
+}
+a {
+    color: #dc3545;
+    text-decoration: none;
+    background-color: transparent;
+}
